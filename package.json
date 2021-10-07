@@ -1,0 +1,22 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "Music bot for youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lousy34/discordbot.git"
+  },
+  "author": "Kaushtubh Kanishk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lousy34/discordbot/issues"
+  },
+  "homepage": "https://github.com/lousy34/discordbot#readme",
+  "dependencies": {
+    "discord.js": "^13.2.0"
+  }
+}
